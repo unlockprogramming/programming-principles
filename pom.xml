@@ -5,11 +5,16 @@
 	<groupId>com.unlockprogramming</groupId>
 	<artifactId>programming-principles</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Programming Principles</name>
+    <modules>
+        <module>kiss</module>
+    </modules>
+    <name>Programming Principles</name>
 	<description>Project for Programming Principles</description>
 	<packaging>pom</packaging>
 	<properties>
 		<java.version>18</java.version>
+		<maven.compiler.source>${java.version}</maven.compiler.source>
+		<maven.compiler.target>${java.version}</maven.compiler.target>
 	</properties>
 	<dependencies>
 	
