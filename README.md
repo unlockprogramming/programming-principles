@@ -1,4 +1,4 @@
-# Programming Principles In Practice
+# Programming Principles
 
 This project demonstrated how to use following programming principle.
 
