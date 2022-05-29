@@ -1,2 +1,1 @@
-# programming-principles-in-practice
-Programming Principles In Practice
+# Programming Principles In Practice
