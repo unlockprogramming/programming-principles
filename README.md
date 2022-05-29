@@ -1,5 +1,7 @@
 # Programming Principles In Practice
 
+This project demonstrated how to use following programming principle.
+
 ## Contents
 
 ### Generic
